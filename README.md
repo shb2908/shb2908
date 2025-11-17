@@ -12,6 +12,7 @@ $$ |  $$ |$$ |         $$ |   $$ |  $$ |\$$$$$$$\ $$ |      \$$$$$$$\
 # Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,docker,nodejs,python,cpp,flask,git,pytorch,ai,latex,ts,vscode,tensorflow,kubernetes,mongodb&theme=light)](https://skillicons.dev)
 
+![Monster Animation](monster.svg)
 <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
